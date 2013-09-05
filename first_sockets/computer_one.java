@@ -17,11 +17,11 @@ public class City {
    pwriter2.close();
    
 						
-		} catch (IOException ex) {
+   } catch (IOException ex) {
 
-			ex.printStackTrace();
+	ex.printStackTrace();
       }
-		}
+   }
 
   public static void main(String[] args) {
       
