@@ -19,8 +19,8 @@ public class Camp {
     } catch (IOException ex) {
 	     
        ex.printStackTrace();
-  }
- }
+      }
+    }
  
  public static void main(String[] args) {
     

@@ -1,5 +1,3 @@
-// This code is run on computer one.
-
 import java.io.*;
 import java.net.*;
 
@@ -21,7 +19,8 @@ public class City {
 						
 		} catch (IOException ex) {
 
-			ex.printStackTrace();}
+			ex.printStackTrace();
+      }
 		}
 
   public static void main(String[] args) {
